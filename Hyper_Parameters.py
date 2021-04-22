@@ -56,8 +56,8 @@ red = [.7,-1,-1]
 ###################################
 # Psychotoolbox (PTB) sound library
 ###################################
-sound_bp_player1 = 'Sounds/sound1-75ms'
-sound_bp_player2 = 'Sounds/sound2-75ms'
+sound_bp_player1 = 'Sounds/drippy_mid'
+sound_bp_player2 = 'Sounds/drippy_low'
 bp_soundlength = 0.1
 
 #### create psychopy screens
