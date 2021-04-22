@@ -17,8 +17,8 @@ To use this code it's recommended to have at least python 3.5 installed.
 
 #### Hardware
 
-Any Computer-- preffered Linux based
-Two Monitors
-Two Trigger Boxes
-Two Sets of Earphones and Noisecanncelling Mufflers
-The neccessary EEG Equipment
++ Any Computer-- preffered Linux based
++ Two Monitors
++ Two Trigger Boxes
++ Two Sets of Earphones and Noisecanncelling Mufflers
++ The neccessary EEG Equipment
