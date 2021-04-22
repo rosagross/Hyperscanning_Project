@@ -1,0 +1,1580 @@
+23.1370 	WARNING 	Monitor specification not found. Creating a temporary one...
+23.9663 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f851acee8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8538abd550>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+23.9664 	EXP 	window1: mouseVisible = True
+23.9664 	EXP 	window1: mouseVisible = True
+23.9664 	EXP 	window1: mouseVisible = 0
+24.5728 	EXP 	Added new global key event: quit
+36.1272 	DATA 	Keypress: 2
+38.9189 	DATA 	Keypress: 1
+39.4069 	DATA 	Keypress: space
+52.7279 	DATA 	Mouse: Left button down, pos=(81,983)
+52.8958 	DATA 	Mouse:  Left button up, pos=(71,917)
+56.3687 	DATA 	Mouse: Left button down, pos=(1021,593)
+56.4398 	DATA 	Mouse:  Left button up, pos=(1022,593)
+60.6648 	DATA 	Mouse: Left button down, pos=(485,408)
+60.7278 	DATA 	Mouse:  Left button up, pos=(485,408)
+62.6719 	DATA 	Mouse: Left button down, pos=(3,258)
+62.7518 	DATA 	Mouse:  Left button up, pos=(4,258)
+65.1679 	DATA 	Mouse: Left button down, pos=(32,1019)
+65.3118 	DATA 	Mouse:  Left button up, pos=(40,982)
+174.7432 	DATA 	Keypress: lalt
+180.2169 	DATA 	Mouse: Left button down, pos=(866,405)
+180.3200 	DATA 	Mouse:  Left button up, pos=(869,405)
+180.6071 	DATA 	Keypress: q
+182.5761 	DATA 	Mouse: Left button down, pos=(291,522)
+182.6960 	DATA 	Mouse:  Left button up, pos=(291,522)
+185.0631 	DATA 	Keypress: q
+185.7990 	DATA 	Keypress: q
+186.0630 	DATA 	Keypress: q
+186.3190 	DATA 	Keypress: q
+186.8151 	DATA 	Keypress: lctrl
+188.1671 	DATA 	Keypress: escape
+188.3991 	DATA 	Keypress: escape
+188.6150 	DATA 	Keypress: escape
+189.4310 	DATA 	Keypress: escape
+189.8470 	DATA 	Keypress: space
+190.4480 	DATA 	Mouse: Left button down, pos=(227,795)
+190.5200 	DATA 	Mouse:  Left button up, pos=(227,795)
+190.8471 	DATA 	Keypress: space
+191.7991 	DATA 	Keypress: 1
+192.1992 	DATA 	Keypress: 2
+193.1671 	DATA 	Keypress: 2
+194.2151 	DATA 	Keypress: q
+194.5831 	DATA 	Keypress: q
+195.4471 	DATA 	Keypress: 1
+195.9191 	DATA 	Keypress: 2
+196.2711 	DATA 	Keypress: 8
+196.5431 	DATA 	Keypress: 9
+196.8870 	DATA 	Keypress: 0
+198.0231 	DATA 	Keypress: 8
+198.3750 	DATA 	Keypress: 7
+201.4472 	DATA 	Keypress: q
+203.1351 	DATA 	Keypress: 2
+203.6871 	DATA 	Keypress: 3
+203.9351 	DATA 	Keypress: 7
+204.2151 	DATA 	Keypress: 8
+204.5351 	DATA 	Keypress: 9
+205.4071 	DATA 	Keypress: 0
+205.9431 	DATA 	Keypress: 1
+205.9432 	EXP 	Sound  started
+205.9616 	DATA 	Keypress: 2
+206.8151 	DATA 	Keypress: 1
+207.0071 	DATA 	Keypress: 0
+207.2471 	DATA 	Keypress: 9
+207.6071 	DATA 	Keypress: 8
+207.6071 	EXP 	Sound  started
+209.3832 	DATA 	Keypress: 8
+209.5591 	DATA 	Keypress: 1
+209.8071 	DATA 	Keypress: 9
+209.9831 	DATA 	Keypress: 2
+210.1511 	DATA 	Keypress: space
+210.8871 	DATA 	Keypress: 2
+211.1511 	DATA 	Keypress: 9
+211.5511 	DATA 	Keypress: 0
+212.1831 	DATA 	Keypress: 1
+212.5031 	DATA 	Keypress: minus
+212.8711 	DATA 	Keypress: 0
+213.1831 	DATA 	Keypress: 9
+213.4871 	DATA 	Keypress: 8
+214.3591 	DATA 	Keypress: space
+215.3271 	DATA 	Keypress: 3
+215.8711 	DATA 	Keypress: 1
+216.2631 	DATA 	Keypress: 2
+216.4951 	DATA 	Keypress: 3
+216.6711 	DATA 	Keypress: 7
+217.6953 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+217.6960 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+218.7282 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+218.7287 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+221.6205 	DATA 	Keypress: q
+224.5192 	DATA 	Keypress: 7
+225.6791 	DATA 	Keypress: q
+226.3351 	DATA 	Keypress: q
+226.5671 	DATA 	Keypress: q
+226.7831 	DATA 	Keypress: q
+226.9751 	DATA 	Keypress: q
+227.2151 	DATA 	Keypress: 7
+227.8071 	DATA 	Keypress: 8
+227.8434 	EXP 	window1: mouseVisible = True
+2.9243 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.3932 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f966f28a790>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f968d5e12e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.3933 	EXP 	window1: mouseVisible = True
+3.3933 	EXP 	window1: mouseVisible = True
+3.3933 	EXP 	window1: mouseVisible = 0
+3.6429 	EXP 	Added new global key event: quit
+5.0276 	DATA 	Keypress: space
+7.0356 	DATA 	Keypress: space
+8.0835 	DATA 	Keypress: 1
+8.6995 	DATA 	Keypress: 2
+21.5236 	DATA 	Keypress: 7
+27.9556 	DATA 	Keypress: 2
+29.0355 	DATA 	Keypress: 3
+29.4195 	DATA 	Keypress: 1
+29.4196 	EXP 	Sound  started
+32.5076 	DATA 	Keypress: 7
+33.2355 	DATA 	Keypress: 8
+33.2356 	EXP 	Sound  started
+36.1236 	DATA 	Keypress: 2
+37.6355 	DATA 	Keypress: 9
+38.8915 	DATA 	Keypress: 8
+39.5075 	DATA 	Keypress: 7
+40.5255 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+40.5262 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+41.5417 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+41.5423 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+44.4367 	DATA 	Keypress: 1
+44.4369 	DATA 	Keypress: 7
+44.4370 	DATA 	Keypress: 2
+44.4371 	DATA 	Keypress: 8
+44.4372 	DATA 	Keypress: quoteleft
+44.4373 	DATA 	Keypress: 9
+44.4374 	DATA 	Keypress: 1
+44.4375 	DATA 	Keypress: 9
+44.4376 	DATA 	Keypress: 2
+45.2835 	DATA 	Keypress: 1
+45.3163 	EXP 	window1: mouseVisible = True
+2.6060 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.0751 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7ff3f6a53790>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7ff414d6a2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.0752 	EXP 	window1: mouseVisible = True
+3.0752 	EXP 	window1: mouseVisible = True
+3.0752 	EXP 	window1: mouseVisible = 0
+3.3072 	EXP 	Added new global key event: quit
+15.4055 	DATA 	Keypress: lalt
+23.1192 	DATA 	Mouse: Left button down, pos=(1890,356)
+23.5752 	DATA 	Mouse:  Left button up, pos=(2300,347)
+26.8854 	DATA 	Keypress: lctrl
+27.0853 	DATA 	Keypress: c
+28.0773 	DATA 	Keypress: lctrl
+28.7893 	DATA 	Keypress: lctrl
+28.9092 	DATA 	Keypress: v
+29.3572 	DATA 	Keypress: c
+30.6788 	EXP 	window1: mouseVisible = True
+2.4935 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.9645 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9b76c647f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9b94f7a2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.9646 	EXP 	window1: mouseVisible = True
+2.9646 	EXP 	window1: mouseVisible = True
+2.9646 	EXP 	window1: mouseVisible = 0
+3.2110 	EXP 	Added new global key event: quit
+7.9569 	DATA 	Keypress: space
+15.4369 	DATA 	Keypress: 2
+16.0128 	DATA 	Keypress: 1
+17.0447 	DATA 	Keypress: space
+17.3727 	DATA 	Keypress: space
+18.8767 	DATA 	Keypress: 7
+19.6984 	DATA 	Keypress: 8
+21.6289 	DATA 	Keypress: 1
+21.6289 	EXP 	Sound  started
+36.2928 	DATA 	Keypress: tab
+36.3728 	DATA 	Keypress: lalt
+37.1487 	DATA 	Keypress: lalt
+38.5888 	DATA 	Keypress: lwindows
+41.8947 	DATA 	Mouse: Left button down, pos=(1892,770)
+42.2707 	DATA 	Mouse:  Left button up, pos=(2020,755)
+64.9734 	EXP 	window1: mouseVisible = True
+3.7404 	WARNING 	Monitor specification not found. Creating a temporary one...
+4.1838 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f5f0ab9f790>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f5f28ef62e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.1839 	EXP 	window1: mouseVisible = True
+4.1839 	EXP 	window1: mouseVisible = True
+4.1839 	EXP 	window1: mouseVisible = 0
+4.4532 	EXP 	Added new global key event: quit
+75.3835 	EXP 	window1: mouseVisible = True
+2.9910 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.4300 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f622bff0760>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f624a3472e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4301 	EXP 	window1: mouseVisible = True
+3.4301 	EXP 	window1: mouseVisible = True
+3.4301 	EXP 	window1: mouseVisible = 0
+3.6799 	EXP 	Added new global key event: quit
+13.8152 	DATA 	Mouse: Left button down, pos=(948,391)
+13.9271 	DATA 	Mouse:  Left button up, pos=(956,434)
+14.6944 	DATA 	Keypress: space
+15.5582 	DATA 	Keypress: space
+16.1431 	DATA 	Mouse: Left button down, pos=(951,455)
+16.2151 	DATA 	Mouse:  Left button up, pos=(951,455)
+17.2782 	DATA 	Keypress: space
+17.9902 	DATA 	Keypress: 1
+18.2221 	DATA 	Keypress: 2
+19.1422 	DATA 	Keypress: 2
+20.1502 	DATA 	Keypress: 8
+20.3662 	DATA 	Keypress: 9
+20.6061 	DATA 	Keypress: 0
+20.8621 	DATA 	Keypress: minus
+21.8062 	DATA 	Keypress: 7
+22.6299 	DATA 	Keypress: 2
+22.6300 	DATA 	Keypress: 1
+22.6783 	DATA 	Keypress: 8
+22.9982 	DATA 	Keypress: 2
+23.5982 	DATA 	Keypress: 7
+23.6221 	DATA 	Keypress: 8
+23.8221 	DATA 	Keypress: 1
+23.8222 	EXP 	Sound  started
+24.2782 	DATA 	Keypress: 2
+24.3342 	DATA 	Keypress: 8
+24.3343 	EXP 	Sound  started
+24.6942 	DATA 	Keypress: 7
+24.8222 	DATA 	Keypress: 1
+25.0142 	DATA 	Keypress: 8
+25.0702 	DATA 	Keypress: 2
+25.8796 	DATA 	Keypress: 7
+26.0803 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+26.0813 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+27.0966 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+27.0971 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+30.0246 	DATA 	Keypress: 1
+30.0246 	DATA 	Keypress: 2
+30.0247 	DATA 	Keypress: 1
+30.0247 	DATA 	Keypress: 1
+30.0248 	DATA 	Keypress: 1
+30.5022 	DATA 	Keypress: 1
+30.5350 	EXP 	window1: mouseVisible = True
+3.0452 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.5072 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8d7de8c7f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8d9c1e22e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.5073 	EXP 	window1: mouseVisible = True
+3.5073 	EXP 	window1: mouseVisible = True
+3.5073 	EXP 	window1: mouseVisible = 0
+3.7752 	EXP 	Added new global key event: quit
+28.9288 	EXP 	window1: mouseVisible = True
+2.3724 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.8360 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd05692d8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd074c422e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.8360 	EXP 	window1: mouseVisible = True
+2.8361 	EXP 	window1: mouseVisible = True
+2.8361 	EXP 	window1: mouseVisible = 0
+3.0512 	EXP 	Added new global key event: quit
+5.9319 	DATA 	Keypress: lctrl
+6.0676 	DATA 	Keypress: c
+9.1683 	EXP 	window1: mouseVisible = True
+2.0918 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.5570 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f647cc2a7f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f649af3f2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.5571 	EXP 	window1: mouseVisible = True
+2.5571 	EXP 	window1: mouseVisible = True
+2.5571 	EXP 	window1: mouseVisible = 0
+2.8109 	EXP 	Added new global key event: quit
+10.4994 	DATA 	Keypress: lctrl
+10.6190 	DATA 	Keypress: c
+11.8722 	EXP 	window1: mouseVisible = True
+2.3150 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.7845 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f921ad2b7f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f92390812e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.7846 	EXP 	window1: mouseVisible = True
+2.7846 	EXP 	window1: mouseVisible = True
+2.7846 	EXP 	window1: mouseVisible = 0
+3.0257 	EXP 	Added new global key event: quit
+8.7385 	DATA 	Keypress: lctrl
+13.0957 	EXP 	window1: mouseVisible = True
+2.1053 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.5713 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f5071752760>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f508fabe2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.5713 	EXP 	window1: mouseVisible = True
+2.5714 	EXP 	window1: mouseVisible = True
+2.5714 	EXP 	window1: mouseVisible = 0
+2.8506 	EXP 	Added new global key event: quit
+5.5207 	DATA 	Keypress: space
+8.9606 	DATA 	Keypress: space
+10.4726 	DATA 	Keypress: 1
+11.6085 	DATA 	Keypress: 1
+12.1205 	DATA 	Keypress: 2
+13.2805 	DATA 	Keypress: 7
+14.0889 	DATA 	Keypress: 8
+15.8406 	DATA 	Keypress: 1
+15.8407 	EXP 	Sound  started
+17.8406 	DATA 	Keypress: 7
+18.7606 	DATA 	Keypress: 6
+19.6805 	DATA 	Keypress: 8
+19.6806 	EXP 	Sound  started
+23.4806 	DATA 	Keypress: space
+24.2485 	DATA 	Keypress: 1
+24.5605 	DATA 	Keypress: 8
+24.7765 	DATA 	Keypress: 2
+25.1125 	DATA 	Keypress: 7
+25.9213 	DATA 	Keypress: 2
+26.0886 	DATA 	Keypress: 3
+26.1220 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+26.1227 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+27.1384 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+27.1389 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+27.2566 	DATA 	Keypress: 7
+30.0831 	DATA 	Keypress: 8
+30.0832 	DATA 	Keypress: 9
+30.0832 	DATA 	Keypress: 6
+30.4486 	DATA 	Keypress: 7
+31.0165 	DATA 	Keypress: 3
+31.6165 	DATA 	Keypress: 1
+31.6497 	EXP 	window1: mouseVisible = True
+2.3326 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.7961 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f6d7ec1b8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f6d9cf712e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.7962 	EXP 	window1: mouseVisible = True
+2.7962 	EXP 	window1: mouseVisible = True
+2.7962 	EXP 	window1: mouseVisible = 0
+3.0420 	EXP 	Added new global key event: quit
+34.0942 	DATA 	Mouse: Left button down, pos=(1583,791)
+34.1728 	DATA 	Mouse:  Left button up, pos=(1583,791)
+34.5800 	DATA 	Keypress: space
+35.3159 	DATA 	Keypress: space
+36.5399 	DATA 	Keypress: 1
+36.9479 	DATA 	Keypress: 2
+37.6839 	DATA 	Keypress: 7
+38.4948 	DATA 	Keypress: 2
+38.5320 	DATA 	Keypress: 7
+39.5080 	DATA 	Keypress: 1
+39.5081 	EXP 	Sound  started
+41.5400 	DATA 	Keypress: 9
+42.5559 	DATA 	Keypress: 7
+43.5319 	DATA 	Keypress: 2
+44.3399 	DATA 	Keypress: 7
+44.9399 	DATA 	Keypress: 8
+44.9400 	EXP 	Sound  started
+49.6360 	DATA 	Keypress: 2
+50.5480 	DATA 	Keypress: 3
+51.2359 	DATA 	Keypress: 7
+52.0601 	DATA 	Keypress: 8
+52.2608 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+52.2615 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+53.0766 	DATA 	Keypress: 9
+53.2770 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+53.2776 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+57.3160 	DATA 	Keypress: 1
+57.3495 	EXP 	window1: mouseVisible = True
+2.5937 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.0583 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f271ad1b7f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f27390702e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.0584 	EXP 	window1: mouseVisible = True
+3.0584 	EXP 	window1: mouseVisible = True
+3.0584 	EXP 	window1: mouseVisible = 0
+3.3409 	EXP 	Added new global key event: quit
+4.7211 	DATA 	Keypress: space
+9.5570 	DATA 	Keypress: 2
+15.7857 	DATA 	Keypress: space
+16.7450 	DATA 	Keypress: 1
+17.0969 	DATA 	Keypress: 2
+18.7930 	DATA 	Keypress: 7
+30.4331 	DATA 	Keypress: 8
+31.6250 	DATA 	Keypress: 7
+33.0810 	DATA 	Keypress: 2
+33.5769 	DATA 	Keypress: 1
+33.5770 	EXP 	Sound  started
+36.2127 	DATA 	Keypress: 1
+37.9931 	DATA 	Keypress: 1
+38.6450 	DATA 	Keypress: 1
+39.1150 	DATA 	Keypress: 1
+43.6071 	DATA 	Keypress: 2
+43.7451 	DATA 	Keypress: 2
+51.2495 	DATA 	Keypress: 8
+51.2496 	EXP 	Sound  started
+59.2336 	DATA 	Keypress: 2
+76.2815 	DATA 	Keypress: 2
+77.5771 	DATA 	Keypress: 8
+78.2010 	DATA 	Keypress: 7
+79.2201 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+79.2209 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+80.2364 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+80.2369 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+83.9451 	DATA 	Keypress: 8
+83.9749 	EXP 	window1: mouseVisible = True
+2.8915 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.3436 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8c3e7597f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8c5caaf2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.3437 	EXP 	window1: mouseVisible = True
+3.3437 	EXP 	window1: mouseVisible = True
+3.3438 	EXP 	window1: mouseVisible = 0
+3.5552 	EXP 	Added new global key event: quit
+4.4348 	DATA 	Keypress: space
+6.6976 	DATA 	Keypress: 2
+20.2676 	DATA 	Keypress: lalt
+21.9619 	EXP 	window1: mouseVisible = True
+2.0919 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.5637 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f1690f017f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f16af2672e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.5638 	EXP 	window1: mouseVisible = True
+2.5638 	EXP 	window1: mouseVisible = True
+2.5638 	EXP 	window1: mouseVisible = 0
+2.8073 	EXP 	Added new global key event: quit
+3.7073 	DATA 	Keypress: space
+5.7552 	DATA 	Keypress: 1
+6.2911 	DATA 	Keypress: 2
+15.4192 	DATA 	Keypress: lalt
+17.4656 	EXP 	window1: mouseVisible = True
+2.4866 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.9488 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fbc568977f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fbc74bed2e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.9489 	EXP 	window1: mouseVisible = True
+2.9489 	EXP 	window1: mouseVisible = True
+2.9489 	EXP 	window1: mouseVisible = 0
+3.1810 	EXP 	Added new global key event: quit
+5.5420 	DATA 	Keypress: space
+10.6380 	DATA 	Keypress: 1
+10.9898 	DATA 	Keypress: 2
+13.0939 	DATA 	Keypress: 8
+13.4058 	DATA 	Keypress: 9
+13.7739 	DATA 	Keypress: 8
+14.0779 	DATA 	Keypress: 7
+16.7261 	DATA 	Keypress: lalt
+29.2123 	EXP 	window1: mouseVisible = True
+2.3881 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.8521 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fb6715517f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fb68f8a62e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.8522 	EXP 	window1: mouseVisible = True
+2.8522 	EXP 	window1: mouseVisible = True
+2.8522 	EXP 	window1: mouseVisible = 0
+3.1020 	EXP 	Added new global key event: quit
+3.8594 	DATA 	Keypress: space
+5.2353 	DATA 	Keypress: 1
+5.5393 	DATA 	Keypress: 2
+10.7874 	DATA 	Keypress: lalt
+13.5071 	EXP 	window1: mouseVisible = True
+5.6381 	WARNING 	Monitor specification not found. Creating a temporary one...
+6.1212 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f86342198b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f86341ad340>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.1212 	EXP 	window1: mouseVisible = True
+6.1213 	EXP 	window1: mouseVisible = True
+6.1213 	EXP 	window1: mouseVisible = 0
+6.2220 	EXP 	window1: mouseVisible = True
+2.8736 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.3377 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f77b260a8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f77ed8b3910>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.3378 	EXP 	window1: mouseVisible = True
+3.3378 	EXP 	window1: mouseVisible = True
+3.3379 	EXP 	window1: mouseVisible = 0
+3.3859 	EXP 	window1: mouseVisible = True
+2.2504 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.7016 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc4abb3c7f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc4c9e512e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.7017 	EXP 	window1: mouseVisible = True
+2.7017 	EXP 	window1: mouseVisible = True
+2.7017 	EXP 	window1: mouseVisible = 0
+2.9427 	EXP 	Added new global key event: quit
+3.3698 	DATA 	Keypress: space
+4.5858 	DATA 	Keypress: 1
+4.7536 	DATA 	Keypress: 2
+5.4336 	DATA 	Keypress: 2
+6.6977 	DATA 	Keypress: 2
+7.0097 	DATA 	Keypress: 1
+9.6657 	DATA 	Keypress: 2
+9.8977 	DATA 	Keypress: 1
+10.2896 	DATA 	Keypress: 2
+10.3216 	DATA 	Keypress: 1
+10.6977 	DATA 	Keypress: 1
+12.9136 	DATA 	Keypress: 1
+13.0496 	DATA 	Keypress: 2
+13.3456 	DATA 	Keypress: space
+15.1456 	DATA 	Keypress: 8
+15.3696 	DATA 	Keypress: 9
+15.6176 	DATA 	Keypress: 0
+16.1296 	DATA 	Keypress: 8
+16.3776 	DATA 	Keypress: 7
+17.2021 	DATA 	Keypress: 7
+17.2021 	DATA 	Keypress: 2
+17.2022 	DATA 	Keypress: 7
+17.3217 	DATA 	Keypress: 1
+17.4737 	DATA 	Keypress: 8
+17.5856 	DATA 	Keypress: 2
+18.0336 	DATA 	Keypress: 7
+18.1937 	DATA 	Keypress: 1
+18.1938 	EXP 	Sound  started
+18.7537 	DATA 	Keypress: 1
+18.9056 	DATA 	Keypress: 2
+18.9856 	DATA 	Keypress: 8
+18.9857 	EXP 	Sound  started
+19.4177 	DATA 	Keypress: 8
+19.7376 	DATA 	Keypress: 8
+19.8896 	DATA 	Keypress: 1
+20.2336 	DATA 	Keypress: 2
+20.7056 	DATA 	Keypress: 7
+21.5207 	DATA 	Keypress: 8
+21.5208 	DATA 	Keypress: 1
+21.7215 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+21.7222 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.5347 	DATA 	Keypress: 1
+22.5348 	DATA 	Keypress: 2
+22.7352 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.7357 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+25.6297 	DATA 	Keypress: 1
+25.6298 	DATA 	Keypress: 8
+25.6299 	DATA 	Keypress: 2
+25.6299 	DATA 	Keypress: 7
+25.6300 	DATA 	Keypress: 8
+25.8337 	DATA 	Keypress: 8
+25.8633 	EXP 	window1: mouseVisible = True
+2.1303 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.5954 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b14a527f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8b327e2550>, multiSample=False, name='window1', numSamples=2, pos=[-960.0, 0.0], screen=0, size=array([3840, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.5954 	EXP 	window1: mouseVisible = True
+2.5955 	EXP 	window1: mouseVisible = True
+2.5955 	EXP 	window1: mouseVisible = 0
+2.8438 	EXP 	Added new global key event: quit
+4.8897 	DATA 	Keypress: lalt
+6.6541 	EXP 	window1: mouseVisible = True
+1.9575 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.4095 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fec176ea700>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fec529d5940>, multiSample=False, name='window1', numSamples=2, pos=[-960.0, 0.0], screen=0, size=array([3840, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.4096 	EXP 	window1: mouseVisible = True
+2.4096 	EXP 	window1: mouseVisible = True
+2.4096 	EXP 	window1: mouseVisible = 0
+2.4581 	EXP 	window1: mouseVisible = True
+2.1292 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.5914 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f30385ef970>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f307397b940>, multiSample=False, name='window1', numSamples=2, pos=[-960.0, 0.0], screen=0, size=array([3840, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.5915 	EXP 	window1: mouseVisible = True
+2.5915 	EXP 	window1: mouseVisible = True
+2.5915 	EXP 	window1: mouseVisible = 0
+2.6406 	EXP 	window1: mouseVisible = True
+1.8801 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.3292 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f98daa08610>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9915cf3940>, multiSample=False, name='window1', numSamples=2, pos=[-960.0, 0.0], screen=0, size=array([3840, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.3293 	EXP 	window1: mouseVisible = True
+2.3293 	EXP 	window1: mouseVisible = True
+2.3294 	EXP 	window1: mouseVisible = 0
+2.3787 	EXP 	window1: mouseVisible = True
+1.9467 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.4084 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fcf701817f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fcf8e4d62b0>, multiSample=False, name='window1', numSamples=2, pos=[-960.0, 0.0], screen=0, size=array([3840, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.4085 	EXP 	window1: mouseVisible = True
+2.4085 	EXP 	window1: mouseVisible = True
+2.4085 	EXP 	window1: mouseVisible = 0
+2.7566 	EXP 	Added new global key event: quit
+5.6101 	DATA 	Keypress: space
+7.9220 	DATA 	Keypress: 1
+8.6419 	DATA 	Keypress: 2
+10.9780 	DATA 	Keypress: 2
+11.4099 	DATA 	Keypress: 1
+12.7460 	DATA 	Keypress: lalt
+14.0372 	EXP 	window1: mouseVisible = True
+2.0406 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.4810 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f70bf16b790>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f70dcfce4f0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.4811 	EXP 	window1: mouseVisible = True
+2.4811 	EXP 	window1: mouseVisible = True
+2.4812 	EXP 	window1: mouseVisible = 0
+2.7298 	EXP 	Added new global key event: quit
+3.4879 	DATA 	Keypress: space
+13.4560 	DATA 	Keypress: 1
+14.0398 	DATA 	Keypress: 2
+20.6640 	DATA 	Keypress: lalt
+22.0351 	EXP 	window1: mouseVisible = True
+4.9545 	WARNING 	Monitor specification not found. Creating a temporary one...
+5.4227 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f938df127f0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f93ac269220>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.4227 	EXP 	window1: mouseVisible = True
+5.4228 	EXP 	window1: mouseVisible = True
+5.4228 	EXP 	window1: mouseVisible = 0
+5.7011 	EXP 	Added new global key event: quit
+6.5298 	DATA 	Keypress: space
+7.8097 	DATA 	Keypress: space
+8.3857 	DATA 	Keypress: space
+8.6657 	DATA 	Keypress: space
+8.8737 	DATA 	Keypress: space
+9.4017 	DATA 	Keypress: lalt
+14.0831 	EXP 	window1: mouseVisible = True
+3.4517 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.8927 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f88fa9de8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8918cf42b0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.8928 	EXP 	window1: mouseVisible = True
+3.8928 	EXP 	window1: mouseVisible = True
+3.8929 	EXP 	window1: mouseVisible = 0
+4.1672 	EXP 	Added new global key event: quit
+5.0670 	DATA 	Keypress: space
+6.3709 	DATA 	Keypress: 1
+6.7388 	DATA 	Keypress: 2
+10.0669 	DATA 	Keypress: 7
+13.2430 	DATA 	Keypress: 8
+13.7309 	DATA 	Keypress: 2
+14.0669 	DATA 	Keypress: 1
+14.0669 	EXP 	Sound  started
+14.8269 	DATA 	Keypress: 1
+15.3469 	DATA 	Keypress: 7
+15.7469 	DATA 	Keypress: 8
+15.7469 	EXP 	Sound  started
+16.7150 	DATA 	Keypress: 1
+17.1709 	DATA 	Keypress: 2
+18.1469 	DATA 	Keypress: 7
+19.1611 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+19.1619 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+20.1774 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+20.1779 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.1221 	DATA 	Keypress: 1
+23.1222 	DATA 	Keypress: 1
+23.1222 	DATA 	Keypress: 8
+23.6030 	DATA 	Keypress: 7
+24.5549 	DATA 	Keypress: 2
+25.3709 	DATA 	Keypress: 8
+25.3710 	EXP 	Sound  started
+25.9149 	DATA 	Keypress: 8
+25.9149 	EXP 	Sound  started
+26.4189 	DATA 	Keypress: 8
+26.4189 	EXP 	Sound  started
+26.6189 	DATA 	Keypress: 1
+26.6189 	EXP 	Sound  started
+26.9949 	DATA 	Keypress: 8
+26.9949 	EXP 	Sound  started
+27.1709 	DATA 	Keypress: 1
+27.1709 	EXP 	Sound  started
+27.3309 	DATA 	Keypress: 8
+27.3309 	EXP 	Sound  started
+27.5149 	DATA 	Keypress: 1
+27.5149 	EXP 	Sound  started
+27.6429 	DATA 	Keypress: 8
+27.6429 	EXP 	Sound  started
+27.8189 	DATA 	Keypress: 1
+27.8189 	EXP 	Sound  started
+27.8909 	DATA 	Keypress: 8
+27.8909 	EXP 	Sound  started
+28.0589 	DATA 	Keypress: 1
+28.0589 	EXP 	Sound  started
+28.1149 	DATA 	Keypress: 8
+28.1149 	EXP 	Sound  started
+28.3629 	DATA 	Keypress: 8
+28.3629 	EXP 	Sound  started
+28.6909 	DATA 	Keypress: 1
+28.6909 	EXP 	Sound  started
+29.0349 	DATA 	Keypress: 8
+33.0189 	DATA 	Keypress: 1
+33.0190 	EXP 	Sound  started
+33.3229 	DATA 	Keypress: 8
+33.9869 	DATA 	Keypress: 7
+34.2909 	DATA 	Keypress: 9
+34.8829 	DATA 	Keypress: 8
+35.1869 	DATA 	Keypress: 7
+35.5389 	DATA 	Keypress: 6
+35.9309 	DATA 	Keypress: 7
+36.2349 	DATA 	Keypress: 9
+36.6109 	DATA 	Keypress: 9
+37.1389 	DATA 	Keypress: 1
+37.1389 	EXP 	Sound  started
+37.5069 	DATA 	Keypress: 1
+37.5069 	EXP 	Sound  started
+37.7079 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+37.7086 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+38.5249 	DATA 	Keypress: 1
+38.7254 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+38.7259 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+42.6110 	DATA 	Keypress: 1
+42.6111 	EXP 	Sound  started
+43.0749 	DATA 	Keypress: 1
+43.0750 	EXP 	Sound  started
+43.3389 	DATA 	Keypress: 1
+43.3389 	EXP 	Sound  started
+43.5629 	DATA 	Keypress: 1
+43.5629 	EXP 	Sound  started
+44.0349 	DATA 	Keypress: 1
+44.0349 	EXP 	Sound  started
+44.2429 	DATA 	Keypress: 8
+44.2429 	EXP 	Sound  started
+44.5549 	DATA 	Keypress: 8
+44.5549 	EXP 	Sound  started
+44.6589 	DATA 	Keypress: 1
+44.6589 	EXP 	Sound  started
+44.8189 	DATA 	Keypress: 8
+44.8189 	EXP 	Sound  started
+45.0109 	DATA 	Keypress: 8
+45.0109 	DATA 	Keypress: 1
+45.2029 	DATA 	Keypress: 8
+45.2029 	EXP 	Sound  started
+45.6029 	DATA 	Keypress: 1
+45.6029 	EXP 	Sound  started
+45.8429 	DATA 	Keypress: 8
+45.8429 	EXP 	Sound  started
+46.0669 	DATA 	Keypress: 1
+46.0670 	EXP 	Sound  started
+46.1789 	DATA 	Keypress: 8
+46.1789 	EXP 	Sound  started
+46.4589 	DATA 	Keypress: 8
+46.4589 	EXP 	Sound  started
+46.7469 	DATA 	Keypress: 1
+46.7469 	EXP 	Sound  started
+46.8189 	DATA 	Keypress: 8
+46.8189 	EXP 	Sound  started
+47.0029 	DATA 	Keypress: 1
+47.0829 	DATA 	Keypress: 8
+47.0829 	EXP 	Sound  started
+47.2838 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+47.2846 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+48.0905 	DATA 	Keypress: 8
+48.0906 	DATA 	Keypress: 1
+48.2910 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+48.2915 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+51.2359 	DATA 	Keypress: lalt
+51.6201 	EXP 	window1: mouseVisible = True
+17.7341 	WARNING 	Monitor specification not found. Creating a temporary one...
+18.7377 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7984e7e6d0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f79a3197220>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 60.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.7378 	EXP 	window1: mouseVisible = True
+18.7378 	EXP 	window1: mouseVisible = True
+18.7378 	EXP 	window1: mouseVisible = 0
+19.4850 	WARNING 	Requested audio device 'USB Audio Device: - (hw:3,0)' that is not available on this hardware. The 'audioDevice' preference should be one of ['HDA Intel PCH: ALC3220 Analog (hw:1,0)', 'HDA NVidia: HDMI 0 (hw:2,3)', 'HDA NVidia: HDMI 1 (hw:2,7)', 'hdmi']
+19.5768 	EXP 	Added new global key event: quit
+29.0216 	DATA 	Keypress: space
+35.6374 	DATA 	Keypress: 1
+36.3173 	DATA 	Keypress: 2
+42.1814 	DATA 	Keypress: 2
+43.3413 	DATA 	Keypress: 9
+43.7253 	DATA 	Keypress: 8
+44.1333 	DATA 	Keypress: 7
+48.9254 	DATA 	Keypress: 1
+48.9255 	EXP 	Sound  started
+51.4373 	DATA 	Keypress: 8
+51.4374 	EXP 	Sound  started
+53.2693 	DATA 	Keypress: 2
+53.2933 	DATA 	Keypress: 7
+54.3024 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+54.3031 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+55.1346 	DATA 	Keypress: 1
+55.3351 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+55.3356 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+58.2632 	DATA 	Keypress: 8
+59.0774 	DATA 	Keypress: 1
+59.0774 	EXP 	Sound  started
+59.4213 	DATA 	Keypress: 8
+59.4213 	EXP 	Sound  started
+59.7253 	DATA 	Keypress: 1
+59.7253 	EXP 	Sound  started
+59.8133 	DATA 	Keypress: 8
+59.8133 	EXP 	Sound  started
+60.2853 	DATA 	Keypress: 8
+60.2853 	DATA 	Keypress: 1
+60.7973 	DATA 	Keypress: 1
+60.7973 	EXP 	Sound  started
+60.8933 	DATA 	Keypress: 8
+60.8933 	EXP 	Sound  started
+61.3013 	DATA 	Keypress: 8
+61.3013 	EXP 	Sound  started
+61.7493 	DATA 	Keypress: 1
+61.7493 	EXP 	Sound  started
+61.7733 	DATA 	Keypress: 8
+61.7733 	EXP 	Sound  started
+62.2853 	DATA 	Keypress: 8
+62.2853 	DATA 	Keypress: 1
+62.7253 	DATA 	Keypress: 8
+62.7253 	DATA 	Keypress: 1
+63.5813 	DATA 	Keypress: 8
+63.5813 	EXP 	Sound  started
+63.6293 	DATA 	Keypress: 1
+63.6293 	EXP 	Sound  started
+64.1653 	DATA 	Keypress: 8
+64.1653 	DATA 	Keypress: 1
+64.5653 	DATA 	Keypress: 8
+64.5653 	EXP 	Sound  started
+64.7173 	DATA 	Keypress: 1
+64.7173 	EXP 	Sound  started
+65.1893 	DATA 	Keypress: 8
+65.1893 	EXP 	Sound  started
+65.3733 	DATA 	Keypress: 1
+65.3733 	EXP 	Sound  started
+65.8053 	DATA 	Keypress: 8
+65.8053 	EXP 	Sound  started
+65.9093 	DATA 	Keypress: 1
+65.9093 	EXP 	Sound  started
+66.3173 	DATA 	Keypress: 8
+66.3173 	DATA 	Keypress: 1
+66.8693 	DATA 	Keypress: 8
+66.8693 	DATA 	Keypress: 1
+67.3973 	DATA 	Keypress: 8
+67.4373 	DATA 	Keypress: 1
+67.4373 	EXP 	Sound  started
+67.6382 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+67.6389 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+68.4497 	DATA 	Keypress: 8
+68.4498 	DATA 	Keypress: 1
+68.5334 	DATA 	Keypress: 8
+68.5334 	DATA 	Keypress: 1
+68.6502 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+68.6507 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+71.5784 	DATA 	Keypress: 8
+71.5784 	DATA 	Keypress: 1
+71.5785 	DATA 	Keypress: 8
+71.5785 	DATA 	Keypress: 1
+71.5786 	DATA 	Keypress: 8
+74.0374 	DATA 	Keypress: 1
+74.0374 	EXP 	Sound  started
+74.2693 	DATA 	Keypress: 8
+74.2693 	EXP 	Sound  started
+74.9733 	DATA 	Keypress: 1
+74.9733 	EXP 	Sound  started
+75.6213 	DATA 	Keypress: 8
+75.6213 	DATA 	Keypress: 1
+76.1573 	DATA 	Keypress: 8
+76.1573 	DATA 	Keypress: 1
+76.5653 	DATA 	Keypress: 8
+76.5653 	DATA 	Keypress: 1
+76.8773 	DATA 	Keypress: 8
+76.8773 	EXP 	Sound  started
+76.9093 	DATA 	Keypress: 1
+76.9093 	EXP 	Sound  started
+77.8053 	DATA 	Keypress: 8
+77.8053 	EXP 	Sound  started
+77.8213 	DATA 	Keypress: 1
+77.8213 	EXP 	Sound  started
+78.2293 	DATA 	Keypress: 8
+78.2293 	EXP 	Sound  started
+78.2533 	DATA 	Keypress: 1
+78.2533 	EXP 	Sound  started
+78.6053 	DATA 	Keypress: 8
+78.6053 	DATA 	Keypress: 1
+78.9893 	DATA 	Keypress: 8
+78.9893 	EXP 	Sound  started
+79.0133 	DATA 	Keypress: 1
+79.0133 	EXP 	Sound  started
+79.4213 	DATA 	Keypress: 8
+79.4213 	EXP 	Sound  started
+79.4533 	DATA 	Keypress: 1
+79.4533 	EXP 	Sound  started
+79.8693 	DATA 	Keypress: 8
+79.8693 	EXP 	Sound  started
+79.9013 	DATA 	Keypress: 1
+79.9013 	EXP 	Sound  started
+80.3333 	DATA 	Keypress: 8
+80.3333 	DATA 	Keypress: 1
+80.7333 	DATA 	Keypress: 8
+80.7333 	DATA 	Keypress: 1
+81.1013 	DATA 	Keypress: 8
+81.1013 	EXP 	Sound  started
+81.1253 	DATA 	Keypress: 1
+81.1253 	EXP 	Sound  started
+81.4373 	DATA 	Keypress: 8
+81.4373 	EXP 	Sound  started
+81.4533 	DATA 	Keypress: 1
+81.6382 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+81.6389 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+82.4483 	DATA 	Keypress: 8
+82.4484 	DATA 	Keypress: 1
+82.4484 	DATA 	Keypress: 8
+82.4485 	DATA 	Keypress: 1
+82.4485 	DATA 	Keypress: 8
+82.4934 	DATA 	Keypress: 1
+82.6487 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+82.6493 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+85.5269 	DATA 	Keypress: 1
+85.5269 	DATA 	Keypress: 8
+85.5270 	DATA 	Keypress: 1
+85.5270 	DATA 	Keypress: 8
+85.5271 	DATA 	Keypress: 1
+85.5271 	DATA 	Keypress: 8
+85.5272 	DATA 	Keypress: 8
+85.5272 	DATA 	Keypress: 1
+85.5273 	DATA 	Keypress: 8
+85.5273 	DATA 	Keypress: 1
+85.5274 	DATA 	Keypress: 8
+85.5274 	DATA 	Keypress: 1
+85.6933 	DATA 	Keypress: 1
+86.1253 	DATA 	Keypress: 8
+86.1254 	EXP 	Sound  started
+86.6133 	DATA 	Keypress: 8
+86.6133 	EXP 	Sound  started
+87.0293 	DATA 	Keypress: 8
+87.0293 	EXP 	Sound  started
+87.5733 	DATA 	Keypress: 8
+87.5733 	EXP 	Sound  started
+87.9733 	DATA 	Keypress: 8
+87.9733 	EXP 	Sound  started
+88.3733 	DATA 	Keypress: 8
+88.3733 	EXP 	Sound  started
+88.7653 	DATA 	Keypress: 8
+88.7653 	EXP 	Sound  started
+89.1333 	DATA 	Keypress: 8
+89.1333 	EXP 	Sound  started
+89.4933 	DATA 	Keypress: 8
+89.4933 	EXP 	Sound  started
+89.8693 	DATA 	Keypress: 8
+90.4133 	DATA 	Keypress: 8
+92.5333 	DATA 	Keypress: 8
+93.5653 	DATA 	Keypress: 8
+94.0693 	DATA 	Keypress: 1
+94.0693 	EXP 	Sound  started
+94.5013 	DATA 	Keypress: 8
+94.9413 	DATA 	Keypress: 1
+94.9413 	EXP 	Sound  started
+95.3333 	DATA 	Keypress: 8
+95.6053 	DATA 	Keypress: 1
+95.6053 	EXP 	Sound  started
+96.0453 	DATA 	Keypress: 1
+96.0453 	EXP 	Sound  started
+96.3253 	DATA 	Keypress: 1
+96.3253 	EXP 	Sound  started
+96.6053 	DATA 	Keypress: 1
+96.6053 	EXP 	Sound  started
+96.8454 	DATA 	Keypress: 1
+96.8455 	EXP 	Sound  started
+97.0613 	DATA 	Keypress: 1
+97.0613 	EXP 	Sound  started
+97.2773 	DATA 	Keypress: 1
+97.2773 	EXP 	Sound  started
+97.4453 	DATA 	Keypress: 1
+97.4782 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+97.4789 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+98.2967 	DATA 	Keypress: 1
+98.4971 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+98.4976 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+98.5253 	DATA 	Keypress: 8
+101.3752 	DATA 	Keypress: 8
+101.3752 	DATA 	Keypress: 1
+101.3753 	DATA 	Keypress: 8
+101.7254 	DATA 	Keypress: 8
+101.7254 	EXP 	Sound  started
+102.5013 	DATA 	Keypress: 1
+102.5013 	EXP 	Sound  started
+102.7413 	DATA 	Keypress: 8
+102.7413 	EXP 	Sound  started
+103.6774 	DATA 	Keypress: 1
+103.6774 	EXP 	Sound  started
+103.8293 	DATA 	Keypress: 8
+103.8293 	EXP 	Sound  started
+104.3253 	DATA 	Keypress: 8
+104.3253 	EXP 	Sound  started
+104.5813 	DATA 	Keypress: 1
+104.5813 	EXP 	Sound  started
+104.9253 	DATA 	Keypress: 8
+104.9253 	EXP 	Sound  started
+105.1173 	DATA 	Keypress: 1
+105.1173 	EXP 	Sound  started
+105.5493 	DATA 	Keypress: 1
+105.5493 	EXP 	Sound  started
+105.6373 	DATA 	Keypress: 8
+105.6373 	EXP 	Sound  started
+106.1733 	DATA 	Keypress: 8
+106.1733 	EXP 	Sound  started
+106.3333 	DATA 	Keypress: 1
+106.3333 	EXP 	Sound  started
+106.8213 	DATA 	Keypress: 1
+106.8213 	EXP 	Sound  started
+106.8373 	DATA 	Keypress: 8
+106.8373 	EXP 	Sound  started
+107.3653 	DATA 	Keypress: 8
+107.3653 	DATA 	Keypress: 1
+108.0373 	DATA 	Keypress: 8
+108.0373 	EXP 	Sound  started
+108.4213 	DATA 	Keypress: 1
+108.4213 	EXP 	Sound  started
+108.5253 	DATA 	Keypress: 8
+108.9973 	DATA 	Keypress: 8
+109.4293 	DATA 	Keypress: 1
+109.4293 	EXP 	Sound  started
+109.4853 	DATA 	Keypress: 8
+109.6302 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+109.6309 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+110.4453 	DATA 	Keypress: 8
+110.4454 	DATA 	Keypress: 8
+110.6458 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+110.6463 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+110.6853 	DATA 	Keypress: 8
+113.5740 	DATA 	Keypress: 8
+113.5741 	DATA 	Keypress: 8
+113.5742 	DATA 	Keypress: 1
+113.5742 	DATA 	Keypress: 1
+113.5743 	DATA 	Keypress: 8
+113.5744 	DATA 	Keypress: 8
+113.6614 	DATA 	Keypress: 1
+113.8133 	DATA 	Keypress: 8
+113.8133 	EXP 	Sound  started
+114.4453 	DATA 	Keypress: 8
+114.4453 	EXP 	Sound  started
+115.0053 	DATA 	Keypress: 8
+115.0053 	EXP 	Sound  started
+115.4853 	DATA 	Keypress: 8
+115.4853 	EXP 	Sound  started
+116.0453 	DATA 	Keypress: 8
+116.0453 	EXP 	Sound  started
+116.5493 	DATA 	Keypress: 8
+116.5493 	EXP 	Sound  started
+116.9173 	DATA 	Keypress: 8
+116.9173 	EXP 	Sound  started
+117.2453 	DATA 	Keypress: 8
+117.2453 	EXP 	Sound  started
+117.5413 	DATA 	Keypress: 8
+117.5413 	EXP 	Sound  started
+117.8373 	DATA 	Keypress: 8
+118.1733 	DATA 	Keypress: 8
+118.5413 	DATA 	Keypress: 8
+118.8773 	DATA 	Keypress: 8
+119.2213 	DATA 	Keypress: 8
+119.5413 	DATA 	Keypress: 8
+119.7973 	DATA 	Keypress: 1
+119.7973 	EXP 	Sound  started
+120.1493 	DATA 	Keypress: 1
+120.1493 	EXP 	Sound  started
+120.4293 	DATA 	Keypress: 1
+120.4293 	EXP 	Sound  started
+120.6533 	DATA 	Keypress: 1
+120.6533 	EXP 	Sound  started
+120.9013 	DATA 	Keypress: 1
+120.9013 	EXP 	Sound  started
+121.0533 	DATA 	Keypress: 1
+121.0533 	EXP 	Sound  started
+121.4213 	DATA 	Keypress: 1
+121.4213 	EXP 	Sound  started
+121.6773 	DATA 	Keypress: 1
+121.6773 	EXP 	Sound  started
+121.8933 	DATA 	Keypress: 1
+121.8933 	EXP 	Sound  started
+122.0943 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+122.0951 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+122.9107 	DATA 	Keypress: 1
+123.1111 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+123.1116 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+126.6294 	DATA 	Keypress: 1
+126.6295 	EXP 	Sound  started
+126.6533 	DATA 	Keypress: 8
+126.6533 	EXP 	Sound  started
+128.3173 	DATA 	Keypress: 8
+128.3173 	EXP 	Sound  started
+128.7813 	DATA 	Keypress: 1
+128.7813 	EXP 	Sound  started
+129.6133 	DATA 	Keypress: 8
+129.6133 	DATA 	Keypress: 1
+130.2213 	DATA 	Keypress: 8
+130.2213 	EXP 	Sound  started
+130.2453 	DATA 	Keypress: 1
+130.2453 	EXP 	Sound  started
+130.8693 	DATA 	Keypress: 8
+130.8693 	DATA 	Keypress: 1
+131.3893 	DATA 	Keypress: 1
+131.3893 	EXP 	Sound  started
+131.8373 	DATA 	Keypress: 8
+131.8373 	EXP 	Sound  started
+132.2453 	DATA 	Keypress: 8
+132.2453 	EXP 	Sound  started
+132.2693 	DATA 	Keypress: 1
+132.2693 	EXP 	Sound  started
+132.7573 	DATA 	Keypress: 1
+132.7573 	EXP 	Sound  started
+133.1253 	DATA 	Keypress: 8
+133.1253 	EXP 	Sound  started
+133.4293 	DATA 	Keypress: 1
+133.4293 	EXP 	Sound  started
+133.7973 	DATA 	Keypress: 8
+133.7973 	EXP 	Sound  started
+133.8373 	DATA 	Keypress: 1
+133.8373 	EXP 	Sound  started
+134.2213 	DATA 	Keypress: 8
+134.2213 	DATA 	Keypress: 1
+136.5573 	DATA 	Keypress: 1
+136.5573 	EXP 	Sound  started
+136.5973 	DATA 	Keypress: 8
+136.5973 	EXP 	Sound  started
+137.2053 	DATA 	Keypress: 8
+137.2053 	EXP 	Sound  started
+137.4473 	EXP 	window1: mouseVisible = True
+24.2430 	WARNING 	Monitor specification not found. Creating a temporary one...
+25.6893 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8c0323e790>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8c210ca580>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+25.6894 	EXP 	window1: mouseVisible = True
+25.6894 	EXP 	window1: mouseVisible = True
+25.6894 	EXP 	window1: mouseVisible = 0
+26.4106 	WARNING 	Requested audio device 'USB Audio Device: - (hw:3,0)' that is not available on this hardware. The 'audioDevice' preference should be one of ['HDA Intel PCH: ALC3220 Analog (hw:1,0)', 'HDA NVidia: HDMI 0 (hw:2,3)', 'HDA NVidia: HDMI 1 (hw:2,7)', 'hdmi']
+26.4330 	EXP 	window1: mouseVisible = True
+3.4012 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.8469 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8f1b6018e0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8f39445580>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.8470 	EXP 	window1: mouseVisible = True
+3.8470 	EXP 	window1: mouseVisible = True
+3.8470 	EXP 	window1: mouseVisible = 0
+4.0516 	WARNING 	Requested audio device 'USB Audio Device: - (hw:3,0)' that is not available on this hardware. The 'audioDevice' preference should be one of ['HDA Intel PCH: ALC3220 Analog (hw:1,0)', 'HDA NVidia: HDMI 0 (hw:2,3)', 'HDA NVidia: HDMI 1 (hw:2,7)', 'hdmi']
+4.0566 	EXP 	window1: mouseVisible = True
+2.3921 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.8324 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f031aac98b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f0338e9b280>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.8325 	EXP 	window1: mouseVisible = True
+2.8326 	EXP 	window1: mouseVisible = True
+2.8326 	EXP 	window1: mouseVisible = 0
+3.0468 	WARNING 	Requested audio device 'USB Audio Device: - (hw:3,0)' that is not available on this hardware. The 'audioDevice' preference should be one of ['HDA Intel PCH: ALC3220 Analog (hw:1,0)', 'HDA NVidia: HDMI 0 (hw:2,3)', 'HDA NVidia: HDMI 1 (hw:2,7)', 'hdmi']
+3.0517 	EXP 	window1: mouseVisible = True
+2.2696 	WARNING 	Monitor specification not found. Creating a temporary one...
+2.7076 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f22b72cb8b0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f22d56c2280>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.7077 	EXP 	window1: mouseVisible = True
+2.7077 	EXP 	window1: mouseVisible = True
+2.7077 	EXP 	window1: mouseVisible = 0
+2.9120 	WARNING 	Requested audio device 'USB Audio Device: - (hw:3,0)' that is not available on this hardware. The 'audioDevice' preference should be one of ['HDA Intel PCH: ALC3220 Analog (hw:1,0)', 'HDA NVidia: HDMI 0 (hw:2,3)', 'HDA NVidia: HDMI 1 (hw:2,7)', 'hdmi']
+2.9359 	EXP 	Added new global key event: quit
+30.9487 	DATA 	Keypress: space
+32.4365 	DATA 	Keypress: space
+34.9165 	DATA 	Keypress: space
+35.1885 	DATA 	Keypress: space
+35.7165 	DATA 	Keypress: return
+35.9325 	DATA 	Keypress: return
+36.1404 	DATA 	Keypress: return
+36.4844 	DATA 	Keypress: space
+38.4684 	DATA 	Keypress: space
+39.2604 	DATA 	Keypress: 1
+39.4284 	DATA 	Keypress: 2
+40.7005 	DATA 	Keypress: 7
+41.5223 	DATA 	Keypress: 8
+41.5224 	DATA 	Keypress: 9
+41.8125 	DATA 	Keypress: space
+43.8925 	DATA 	Keypress: 1
+43.8926 	EXP 	Sound  started
+44.0365 	DATA 	Keypress: 2
+44.4125 	DATA 	Keypress: 7
+44.4684 	DATA 	Keypress: 8
+44.4685 	EXP 	Sound  started
+45.4525 	DATA 	Keypress: 1
+45.5084 	DATA 	Keypress: 2
+45.9405 	DATA 	Keypress: 8
+46.4125 	DATA 	Keypress: 7
+47.4225 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+47.4232 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+48.2548 	DATA 	Keypress: 2
+48.2549 	DATA 	Keypress: 7
+48.2845 	DATA 	Keypress: 1
+48.3004 	DATA 	Keypress: 8
+48.4554 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+48.4559 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+48.5565 	DATA 	Keypress: 2
+48.5565 	DATA 	Keypress: 7
+51.4001 	DATA 	Keypress: 1
+51.4002 	DATA 	Keypress: 7
+51.4002 	DATA 	Keypress: 2
+51.4003 	DATA 	Keypress: 7
+51.4003 	DATA 	Keypress: 7
+51.4004 	DATA 	Keypress: 2
+51.4004 	DATA 	Keypress: 8
+51.4005 	DATA 	Keypress: 7
+51.4005 	DATA 	Keypress: 7
+51.4006 	DATA 	Keypress: 1
+51.4845 	DATA 	Keypress: 7
+51.6525 	DATA 	Keypress: 7
+51.8284 	DATA 	Keypress: 7
+51.8524 	DATA 	Keypress: 1
+51.8525 	EXP 	Sound  started
+52.0444 	DATA 	Keypress: 7
+52.0604 	DATA 	Keypress: 1
+52.0605 	EXP 	Sound  started
+52.2124 	DATA 	Keypress: 7
+52.2365 	DATA 	Keypress: 1
+52.2365 	EXP 	Sound  started
+52.3805 	DATA 	Keypress: 7
+52.5724 	DATA 	Keypress: 7
+52.7645 	DATA 	Keypress: 1
+52.7645 	EXP 	Sound  started
+53.1725 	DATA 	Keypress: 1
+53.1725 	EXP 	Sound  started
+53.4445 	DATA 	Keypress: 1
+53.4445 	EXP 	Sound  started
+53.6364 	DATA 	Keypress: 8
+53.6365 	EXP 	Sound  started
+53.9325 	DATA 	Keypress: 8
+53.9325 	EXP 	Sound  started
+54.1005 	DATA 	Keypress: 8
+54.1005 	EXP 	Sound  started
+54.2765 	DATA 	Keypress: 1
+54.2765 	EXP 	Sound  started
+54.5005 	DATA 	Keypress: 1
+54.5005 	EXP 	Sound  started
+54.7164 	DATA 	Keypress: 1
+54.7165 	EXP 	Sound  started
+54.9244 	DATA 	Keypress: 8
+54.9245 	EXP 	Sound  started
+55.1085 	DATA 	Keypress: 8
+55.1085 	EXP 	Sound  started
+55.2927 	DATA 	Keypress: 8
+55.2927 	EXP 	Sound  started
+55.4525 	DATA 	Keypress: 8
+55.4525 	EXP 	Sound  started
+55.5645 	DATA 	Keypress: 1
+55.7965 	DATA 	Keypress: 1
+56.0125 	DATA 	Keypress: 1
+56.6445 	DATA 	Keypress: 1
+56.9005 	DATA 	Keypress: 1
+57.2205 	DATA 	Keypress: 2
+57.4685 	DATA 	Keypress: 2
+57.5565 	DATA 	Keypress: 7
+57.8045 	DATA 	Keypress: 7
+58.2685 	DATA 	Keypress: 1
+58.9245 	DATA 	Keypress: 8
+58.9245 	EXP 	Sound  started
+59.3325 	DATA 	Keypress: 8
+59.3325 	EXP 	Sound  started
+59.5334 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+59.5342 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+60.3536 	DATA 	Keypress: 8
+60.3538 	DATA 	Keypress: 8
+60.5541 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+60.5546 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+63.4516 	DATA 	Keypress: 8
+64.1726 	DATA 	Keypress: 1
+64.1726 	EXP 	Sound  started
+64.6125 	DATA 	Keypress: 1
+64.6125 	EXP 	Sound  started
+65.0445 	DATA 	Keypress: 1
+65.0445 	EXP 	Sound  started
+65.3805 	DATA 	Keypress: 8
+65.3805 	EXP 	Sound  started
+65.7565 	DATA 	Keypress: 8
+65.7565 	EXP 	Sound  started
+66.1405 	DATA 	Keypress: 8
+66.1405 	EXP 	Sound  started
+66.5085 	DATA 	Keypress: 8
+66.5085 	EXP 	Sound  started
+66.8685 	DATA 	Keypress: 8
+66.8685 	EXP 	Sound  started
+67.2525 	DATA 	Keypress: 8
+67.2525 	EXP 	Sound  started
+67.6365 	DATA 	Keypress: 8
+67.6365 	EXP 	Sound  started
+67.9645 	DATA 	Keypress: 8
+67.9645 	EXP 	Sound  started
+68.3085 	DATA 	Keypress: 8
+68.3085 	EXP 	Sound  started
+68.6525 	DATA 	Keypress: 8
+69.0285 	DATA 	Keypress: 1
+69.0285 	EXP 	Sound  started
+69.3085 	DATA 	Keypress: 1
+69.3085 	EXP 	Sound  started
+69.5085 	DATA 	Keypress: 1
+69.5085 	EXP 	Sound  started
+69.7005 	DATA 	Keypress: 1
+69.7005 	EXP 	Sound  started
+69.8765 	DATA 	Keypress: 1
+69.8765 	EXP 	Sound  started
+70.0445 	DATA 	Keypress: 1
+70.0445 	EXP 	Sound  started
+70.2205 	DATA 	Keypress: 1
+70.2454 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+70.2462 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+71.0524 	DATA 	Keypress: 1
+71.2529 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+71.2534 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+78.1246 	DATA 	Keypress: 1
+78.1247 	DATA 	Keypress: 8
+78.5405 	DATA 	Keypress: 8
+78.5406 	EXP 	Sound  started
+78.5565 	DATA 	Keypress: 1
+78.5565 	EXP 	Sound  started
+78.9325 	DATA 	Keypress: 1
+78.9325 	DATA 	Keypress: 8
+79.3885 	DATA 	Keypress: 1
+79.3885 	EXP 	Sound  started
+79.4045 	DATA 	Keypress: 8
+79.4045 	EXP 	Sound  started
+79.7645 	DATA 	Keypress: 1
+79.7645 	DATA 	Keypress: 8
+80.1405 	DATA 	Keypress: 1
+80.1405 	EXP 	Sound  started
+80.1645 	DATA 	Keypress: 8
+80.1645 	EXP 	Sound  started
+80.4845 	DATA 	Keypress: 8
+80.4846 	EXP 	Sound  started
+80.5005 	DATA 	Keypress: 1
+80.5005 	EXP 	Sound  started
+80.8445 	DATA 	Keypress: 1
+80.8445 	EXP 	Sound  started
+80.8525 	DATA 	Keypress: 8
+80.8525 	EXP 	Sound  started
+81.1645 	DATA 	Keypress: 8
+81.1645 	EXP 	Sound  started
+81.2205 	DATA 	Keypress: 1
+81.2205 	EXP 	Sound  started
+81.5005 	DATA 	Keypress: 1
+81.5005 	DATA 	Keypress: 8
+81.7405 	DATA 	Keypress: 1
+81.7406 	EXP 	Sound  started
+81.8125 	DATA 	Keypress: 8
+81.8125 	EXP 	Sound  started
+82.0045 	DATA 	Keypress: 1
+82.0045 	EXP 	Sound  started
+82.0445 	DATA 	Keypress: 8
+82.0445 	EXP 	Sound  started
+82.3965 	DATA 	Keypress: 8
+82.3965 	EXP 	Sound  started
+82.4125 	DATA 	Keypress: 1
+82.4125 	EXP 	Sound  started
+82.6135 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+82.6142 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+83.4344 	DATA 	Keypress: 1
+83.4345 	DATA 	Keypress: 8
+83.4347 	DATA 	Keypress: 1
+83.4347 	DATA 	Keypress: 8
+83.6349 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+83.6354 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+90.7567 	DATA 	Keypress: 8
+90.7568 	EXP 	Sound  started
+90.7645 	DATA 	Keypress: 1
+90.7645 	EXP 	Sound  started
+91.1485 	DATA 	Keypress: 8
+91.1486 	EXP 	Sound  started
+91.1565 	DATA 	Keypress: 1
+91.1565 	EXP 	Sound  started
+91.4605 	DATA 	Keypress: 8
+91.4605 	EXP 	Sound  started
+91.4685 	DATA 	Keypress: 1
+91.4685 	EXP 	Sound  started
+91.7965 	DATA 	Keypress: 1
+91.7966 	EXP 	Sound  started
+91.8205 	DATA 	Keypress: 8
+91.8205 	EXP 	Sound  started
+92.1325 	DATA 	Keypress: 8
+92.1326 	EXP 	Sound  started
+92.1485 	DATA 	Keypress: 1
+92.1485 	EXP 	Sound  started
+92.6525 	DATA 	Keypress: 8
+92.6526 	EXP 	Sound  started
+92.6765 	DATA 	Keypress: 1
+92.6765 	EXP 	Sound  started
+92.9325 	DATA 	Keypress: 8
+92.9326 	EXP 	Sound  started
+92.9405 	DATA 	Keypress: 1
+92.9405 	EXP 	Sound  started
+93.1725 	DATA 	Keypress: 8
+93.1726 	EXP 	Sound  started
+93.1805 	DATA 	Keypress: 1
+93.1805 	EXP 	Sound  started
+93.3645 	DATA 	Keypress: 1
+93.3646 	EXP 	Sound  started
+93.3805 	DATA 	Keypress: 8
+93.3805 	EXP 	Sound  started
+93.5645 	DATA 	Keypress: 1
+93.5725 	DATA 	Keypress: 8
+93.5815 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+93.5822 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+94.6004 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+94.6010 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+97.4785 	DATA 	Keypress: 1
+97.4786 	DATA 	Keypress: 8
+99.0446 	DATA 	Keypress: 1
+99.0446 	DATA 	Keypress: 8
+99.6685 	DATA 	Keypress: 1
+99.6686 	DATA 	Keypress: 8
+100.0285 	DATA 	Keypress: 1
+100.0286 	EXP 	Sound  started
+100.0685 	DATA 	Keypress: 8
+100.0686 	EXP 	Sound  started
+100.7805 	DATA 	Keypress: 1
+100.7806 	DATA 	Keypress: 8
+101.2525 	DATA 	Keypress: 1
+101.2526 	EXP 	Sound  started
+101.2685 	DATA 	Keypress: 8
+101.2686 	EXP 	Sound  started
+101.6686 	DATA 	Keypress: 1
+101.6687 	EXP 	Sound  started
+101.6765 	DATA 	Keypress: 8
+101.6766 	EXP 	Sound  started
+102.0845 	DATA 	Keypress: 1
+102.0846 	DATA 	Keypress: 8
+102.5805 	DATA 	Keypress: 1
+102.5806 	EXP 	Sound  started
+102.5965 	DATA 	Keypress: 8
+102.5966 	EXP 	Sound  started
+103.0205 	DATA 	Keypress: 1
+103.0206 	EXP 	Sound  started
+103.0285 	DATA 	Keypress: 8
+103.0286 	EXP 	Sound  started
+103.3965 	DATA 	Keypress: 8
+103.3966 	EXP 	Sound  started
+103.4045 	DATA 	Keypress: 1
+103.4046 	EXP 	Sound  started
+103.8285 	DATA 	Keypress: 1
+103.8286 	EXP 	Sound  started
+103.8445 	DATA 	Keypress: 8
+103.8446 	EXP 	Sound  started
+104.2925 	DATA 	Keypress: 1
+104.2926 	EXP 	Sound  started
+104.3085 	DATA 	Keypress: 8
+104.3086 	EXP 	Sound  started
+104.7005 	DATA 	Keypress: 8
+104.7006 	EXP 	Sound  started
+104.7245 	DATA 	Keypress: 1
+104.7246 	EXP 	Sound  started
+104.9255 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+104.9262 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+105.7321 	DATA 	Keypress: 1
+105.7322 	DATA 	Keypress: 8
+105.7806 	DATA 	Keypress: 1
+105.7807 	DATA 	Keypress: 8
+105.9326 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+105.9331 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+108.8608 	DATA 	Keypress: 8
+108.8610 	DATA 	Keypress: 1
+108.8611 	DATA 	Keypress: 8
+108.8612 	DATA 	Keypress: 1
+108.8614 	DATA 	Keypress: 8
+108.8615 	DATA 	Keypress: 1
+108.8616 	DATA 	Keypress: 8
+108.8617 	DATA 	Keypress: 1
+108.8618 	DATA 	Keypress: 8
+108.8620 	DATA 	Keypress: 1
+108.8620 	DATA 	Keypress: 8
+108.8622 	DATA 	Keypress: 8
+108.8623 	DATA 	Keypress: 1
+109.2606 	DATA 	Keypress: 8
+109.2607 	EXP 	Sound  started
+109.6925 	DATA 	Keypress: 8
+109.6926 	EXP 	Sound  started
+110.0925 	DATA 	Keypress: 8
+110.0926 	EXP 	Sound  started
+110.4285 	DATA 	Keypress: 8
+110.4286 	EXP 	Sound  started
+110.6848 	DATA 	Keypress: quoteleft
+110.6849 	DATA 	Keypress: 1
+110.6850 	EXP 	Sound  started
+110.9886 	DATA 	Keypress: 1
+110.9887 	EXP 	Sound  started
+111.2446 	DATA 	Keypress: 1
+111.2446 	EXP 	Sound  started
+111.7006 	DATA 	Keypress: 1
+111.7006 	EXP 	Sound  started
+111.7086 	DATA 	Keypress: 8
+111.7086 	EXP 	Sound  started
+112.0526 	DATA 	Keypress: 1
+112.0526 	EXP 	Sound  started
+112.0686 	DATA 	Keypress: 8
+112.0686 	EXP 	Sound  started
+112.3486 	DATA 	Keypress: 8
+112.3486 	EXP 	Sound  started
+112.3566 	DATA 	Keypress: 1
+112.3566 	EXP 	Sound  started
+112.6446 	DATA 	Keypress: 1
+112.6446 	EXP 	Sound  started
+112.6686 	DATA 	Keypress: 8
+112.6686 	EXP 	Sound  started
+112.9966 	DATA 	Keypress: 1
+112.9966 	EXP 	Sound  started
+113.0046 	DATA 	Keypress: 8
+113.0046 	EXP 	Sound  started
+113.4526 	DATA 	Keypress: 8
+113.4606 	DATA 	Keypress: 1
+113.4606 	EXP 	Sound  started
+113.8526 	DATA 	Keypress: 1
+113.8766 	DATA 	Keypress: 8
+117.8046 	DATA 	Keypress: space
+118.1406 	DATA 	Keypress: 1
+118.1646 	DATA 	Keypress: 8
+118.5646 	DATA 	Keypress: 7
+118.6526 	DATA 	Keypress: 2
+120.5167 	DATA 	Keypress: 7
+120.6366 	DATA 	Keypress: 2
+121.6479 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+121.6486 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+122.6842 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+122.6847 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+128.1887 	DATA 	Keypress: 1
+128.1888 	EXP 	Sound  started
+128.2286 	DATA 	Keypress: 8
+128.2286 	EXP 	Sound  started
+128.6366 	DATA 	Keypress: 1
+128.6366 	DATA 	Keypress: 8
+130.1246 	DATA 	Keypress: 1
+130.1247 	EXP 	Sound  started
+130.1406 	DATA 	Keypress: 8
+130.1406 	EXP 	Sound  started
+130.5166 	DATA 	Keypress: 1
+130.5166 	EXP 	Sound  started
+130.5246 	DATA 	Keypress: 8
+130.5267 	EXP 	Sound  started
+130.9086 	DATA 	Keypress: 1
+130.9086 	EXP 	Sound  started
+130.9326 	DATA 	Keypress: 8
+130.9326 	EXP 	Sound  started
+131.3006 	DATA 	Keypress: 1
+131.3006 	EXP 	Sound  started
+131.3086 	DATA 	Keypress: 8
+131.3107 	EXP 	Sound  started
+131.7086 	DATA 	Keypress: 1
+131.7086 	EXP 	Sound  started
+131.7246 	DATA 	Keypress: 8
+131.7246 	EXP 	Sound  started
+132.1326 	DATA 	Keypress: 8
+132.1326 	EXP 	Sound  started
+132.1486 	DATA 	Keypress: 1
+132.1486 	EXP 	Sound  started
+132.5326 	DATA 	Keypress: 1
+132.5326 	EXP 	Sound  started
+132.5486 	DATA 	Keypress: 8
+132.5486 	EXP 	Sound  started
+132.9486 	DATA 	Keypress: 8
+132.9486 	EXP 	Sound  started
+132.9566 	DATA 	Keypress: 1
+132.9587 	EXP 	Sound  started
+132.9797 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+132.9806 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+133.7958 	DATA 	Keypress: 1
+133.7959 	DATA 	Keypress: 8
+133.7959 	DATA 	Keypress: 1
+133.7967 	DATA 	Keypress: 8
+135.5082 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+135.5087 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+142.2927 	DATA 	Keypress: 1
+142.2928 	EXP 	Sound  started
+142.3166 	DATA 	Keypress: 8
+142.3166 	EXP 	Sound  started
+142.6686 	DATA 	Keypress: 1
+142.6687 	DATA 	Keypress: 8
+146.6606 	DATA 	Keypress: 1
+146.6607 	DATA 	Keypress: 8
+148.3966 	DATA 	Keypress: 1
+148.3967 	EXP 	Sound  started
+148.4366 	DATA 	Keypress: 8
+148.4367 	EXP 	Sound  started
+149.0926 	DATA 	Keypress: 1
+149.0927 	DATA 	Keypress: 8
+149.8686 	DATA 	Keypress: 1
+149.8687 	DATA 	Keypress: 8
+150.4926 	DATA 	Keypress: 1
+150.4927 	EXP 	Sound  started
+150.5006 	DATA 	Keypress: 8
+150.5027 	EXP 	Sound  started
+151.0606 	DATA 	Keypress: 1
+151.0607 	EXP 	Sound  started
+151.1006 	DATA 	Keypress: 8
+151.1007 	EXP 	Sound  started
+151.3966 	DATA 	Keypress: 8
+151.3967 	EXP 	Sound  started
+151.6366 	DATA 	Keypress: 1
+151.6367 	EXP 	Sound  started
+151.7246 	DATA 	Keypress: 8
+151.7247 	EXP 	Sound  started
+151.9326 	DATA 	Keypress: 1
+151.9327 	EXP 	Sound  started
+151.9886 	DATA 	Keypress: 8
+151.9887 	EXP 	Sound  started
+152.2126 	DATA 	Keypress: 1
+152.2127 	EXP 	Sound  started
+152.4126 	DATA 	Keypress: 8
+152.4127 	EXP 	Sound  started
+152.5886 	DATA 	Keypress: 1
+152.5887 	EXP 	Sound  started
+152.7246 	DATA 	Keypress: 8
+152.7247 	EXP 	Sound  started
+152.9486 	DATA 	Keypress: 1
+152.9487 	EXP 	Sound  started
+152.9696 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+152.9704 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+153.7770 	DATA 	Keypress: 8
+153.7771 	DATA 	Keypress: 1
+153.9567 	DATA 	Keypress: 8
+155.7393 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+155.7399 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+161.6768 	DATA 	Keypress: 8
+161.6769 	EXP 	Sound  started
+161.7086 	DATA 	Keypress: 1
+161.7087 	EXP 	Sound  started
+162.1566 	DATA 	Keypress: 1
+162.1567 	EXP 	Sound  started
+162.1646 	DATA 	Keypress: 8
+162.1667 	EXP 	Sound  started
+162.5246 	DATA 	Keypress: 1
+162.5247 	DATA 	Keypress: 8
+163.1166 	DATA 	Keypress: 1
+163.1167 	EXP 	Sound  started
+163.1246 	DATA 	Keypress: 8
+163.1268 	EXP 	Sound  started
+163.6126 	DATA 	Keypress: 1
+163.6127 	EXP 	Sound  started
+163.6366 	DATA 	Keypress: 8
+163.6367 	EXP 	Sound  started
+164.1166 	DATA 	Keypress: 1
+164.1167 	EXP 	Sound  started
+164.1646 	DATA 	Keypress: 8
+164.1647 	EXP 	Sound  started
+164.5646 	DATA 	Keypress: 1
+164.5647 	DATA 	Keypress: 8
+165.1726 	DATA 	Keypress: 1
+165.1727 	DATA 	Keypress: 8
+165.7566 	DATA 	Keypress: 8
+165.7567 	EXP 	Sound  started
+166.0206 	DATA 	Keypress: 1
+166.0207 	EXP 	Sound  started
+166.3006 	DATA 	Keypress: 8
+166.3007 	EXP 	Sound  started
+166.8046 	DATA 	Keypress: 1
+166.8047 	DATA 	Keypress: 8
+167.3006 	DATA 	Keypress: 1
+167.3007 	DATA 	Keypress: 8
+167.7246 	DATA 	Keypress: 1
+167.7247 	DATA 	Keypress: 8
+168.4846 	DATA 	Keypress: 8
+168.4847 	EXP 	Sound  started
+168.4926 	DATA 	Keypress: 1
+168.4947 	EXP 	Sound  started
+168.8926 	DATA 	Keypress: 8
+168.8927 	EXP 	Sound  started
+169.0686 	DATA 	Keypress: 1
+169.0687 	EXP 	Sound  started
+169.1646 	DATA 	Keypress: 8
+169.3166 	DATA 	Keypress: 1
+169.3167 	EXP 	Sound  started
+169.3377 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+169.3384 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor=array([ 0.7, -1. , -1. ]), lineColorSpace='rgb', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+170.1586 	DATA 	Keypress: 8
+170.1587 	DATA 	Keypress: 1
+170.1588 	DATA 	Keypress: 8
+171.8707 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([-480.,    0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+171.8713 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace=None, interpolate=True, lineColor='green', lineColorSpace='named', lineWidth=10, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([480.,   0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+190.6048 	DATA 	Keypress: escape
+191.8047 	DATA 	Keypress: lctrl
+192.0447 	DATA 	Keypress: c
+195.7327 	DATA 	Keypress: lwindows
+196.0927 	DATA 	Keypress: lalt
+198.2448 	EXP 	window1: mouseVisible = True
