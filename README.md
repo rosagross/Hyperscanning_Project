@@ -8,12 +8,13 @@ To use this code it's recommended to have at least python 3.5 installed.
 ### How To Use the Programm ###
 
 #### Software
+
 1. Clone the Repo
 2. Open terminal in the folder
 3. Find the virtual environment and start it. `source HyperEnv/bin/activate`
 4. make sure `pip install`is installed
 5. export python
-6. run the "Hyperscanning_Main" `python Hyperscanning_Main`
+6. run the "Hyperscanning_Main" `python Hyper_Main`
 
 #### Hardware
 
